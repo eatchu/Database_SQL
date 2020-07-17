@@ -1,0 +1,14 @@
+1. Oracle 관련 프로그램 설치
+ - jdk 설치
+ - eclipse 설치
+ - oracle 설치 / 환경설정
+ - eclipse + oracle db 연동 환경설정
+
+2. user 등록 (scott/tiger)
+
+3. project 생성
+
+4. chapter02_SQL 기본 개념 설치
+ - SQL : DDL, DML, DCL
+ - Oracle 기본자료형, 제약조건, 시퀀스
+ 
