@@ -4,7 +4,7 @@ _데이터베이스에 쉽게 접근하고 테이블 생성, 조작, 제어를 �
 기본적인 SQL에 대한 내용과 간단한 쿼리문에 대한 모든 자료가 담겨있습니다._
 >[Basic](#Basic)
 >>[Function](#Function)
->>[View](#View)
+>>>[View](#View)
 
 ## Basic
  - [SQL_BASIC](./chap02_SQL_basic) : SQL의 구조화된 질의어(DDL, DML, DCL)과 제약조건에 관한 간단한 설명과 예제가 있습니다.
@@ -16,7 +16,7 @@ _데이터베이스에 쉽게 접근하고 테이블 생성, 조작, 제어를 �
 
 ## Function
  - [FUNCTION](./chap08_function) : SQL의 함수를 다룰 수 있는 간단한 [설명](./chap08_function/function_work.sql)과 [연습문제](./chap08_function/function_exam.sql)가 있습니다.
- - [GROUPBY](./chap09_group function) : 그룹함수를 다룰 수 있는 간단한 [설명](./chap09_group function/group function_work.sql)과 [연습문제](./chap09_group function/groupFuction_exam.sql)가 있습니다.
+ - [GROUPBY](./chap09_group-function) : 그룹함수를 다룰 수 있는 간단한 [설명](./chap09_group-function/group-function_work.sql)과 [연습문제](./chap09_group-function/groupFuction_exam.sql)가 있습니다.
  - [JOIN](./chap10_Join_ERD_work) : 조인함수를 다룰 수 있는 간단한 설명과 예제가 있습니다.
 
 
