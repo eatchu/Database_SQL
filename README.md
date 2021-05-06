@@ -3,8 +3,8 @@
 _데이터베이스에 쉽게 접근하고 테이블 생성, 조작, 제어를 다룰 수 있도록 하는  <br>
 기본적인 SQL에 대한 내용과 간단한 쿼리문에 대한 모든 자료가 담겨있습니다._
 >[Basic](#Basic)
->[Function](#Function)
->[View](#View)
+>>[Function](#Function)
+>>[View](#View)
 
 ## Basic
  - [SQL_BASIC](./chap02_SQL_basic) : SQL의 구조화된 질의어(DDL, DML, DCL)과 제약조건에 관한 간단한 설명과 예제가 있습니다.
