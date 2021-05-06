@@ -19,7 +19,7 @@ _데이터베이스에 쉽게 접근하고 테이블 생성, 조작, 제어를 �
  - [+ PPT FILE](#+ PPT FILE)
 
 
-##1. README
+## 1. README
 
 
 
