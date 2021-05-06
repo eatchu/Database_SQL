@@ -5,6 +5,7 @@ _데이터베이스에 쉽게 접근하고 테이블 생성, 조작, 제어를 �
 
 
 
-## [1.Basic](./chap02_SQL_basic)
- - _SQL의 구조화된 질의어(DDL, DML, DCL)과 제약조건에 관한 간단한 설명과 예제가 있습니다._
+## Basic
+ - [SQL_BASIC](./chap02_SQL_basic)
+   - _SQL의 구조화된 질의어(DDL, DML, DCL)과 제약조건에 관한 간단한 설명과 예제가 있습니다._
 
